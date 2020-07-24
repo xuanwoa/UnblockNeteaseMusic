@@ -18,6 +18,11 @@
 $ npx @nondanee/unblockneteasemusic
 ```
 
+指定端口
+```
+$ npx @nondanee/unblockneteasemusic -p 8888
+```
+
 或使用 Docker
 
 ```
